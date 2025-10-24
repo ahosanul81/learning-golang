@@ -5,4 +5,5 @@ func main() {
 	structure()
 	array()
 	dynamicArray()
+	higherOrderFnMain()
 }
